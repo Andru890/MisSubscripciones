@@ -3,7 +3,7 @@
 
 git clone https://github.com/Andru890/MisSubscripciones.git
 
-cd Subscription-Tracker-React
+cd mis-subscripciones
 
 npm install
 npm run dev
